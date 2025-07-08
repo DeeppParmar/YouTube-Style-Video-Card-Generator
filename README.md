@@ -1,2 +1,48 @@
-# YouTube-Style-Video-Card-Generator
-A responsive YouTube-style video card built with HTML, CSS, and JavaScript. Dynamically updates content via user prompts with formatted views and automatic month-to-year conversion.
+# 🎬 YouTube-Style Video Card Generator
+
+A responsive YouTube-style video card built using **HTML**, **CSS**, and **JavaScript**. The card dynamically updates based on user input, mimicking YouTube’s UI — including thumbnail, title, channel name, views, time since upload, and duration.
+
+---
+
+## 🚀 Features
+
+- 🎨 Clean, responsive layout styled with Flexbox and Google Fonts  
+- 🧠 User-friendly JS prompts to set all card data dynamically  
+- 🔢 View formatting (e.g., `1500000` → `1.5M`)  
+- 📆 Month-to-year conversion (e.g., `18 months` → `1.5 years ago`)  
+- ✅ Image URL validation (supports http(s) or valid image extensions)
+
+---
+
+## 📸 Preview
+
+> *(Add a screenshot or GIF here)*
+
+---
+
+## 📁 Tech Stack
+
+- HTML5  
+- CSS3 (with `clamp()` for responsive font sizing)  
+- Vanilla JavaScript (DOM manipulation + input validation)
+
+---
+
+## 🧪 How to Use
+
+1. Clone or download this repository
+2. Open `index.html` in your browser
+3. Enter card details in the prompts
+4. Watch your video card update in real time!
+
+---
+
+## 📚 Example
+
+```text
+Title: How to Build Projects in JavaScript
+Image URL: Your Img url
+Channel: CodeWithYou
+Views: 1200000
+Months Ago: 18
+Duration: 10:45
