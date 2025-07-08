@@ -1,4 +1,4 @@
-# 🎬 YouTube-Style Video Card Generator
+# 🎬 YT-Style Video Card Generator
 
 A responsive YouTube-style video card built using **HTML**, **CSS**, and **JavaScript**. The card dynamically updates based on user input, mimicking YouTube’s UI — including thumbnail, title, channel name, views, time since upload, and duration.
 
