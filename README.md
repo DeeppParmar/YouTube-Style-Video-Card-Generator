@@ -16,7 +16,8 @@ A responsive YouTube-style video card built using **HTML**, **CSS**, and **JavaS
 
 ## 📸 Preview
 
-> *(Add a screenshot or GIF here)*
+![yt-demo](https://github.com/user-attachments/assets/3415f823-3148-4506-91f7-a54f1df3eb93)
+
 
 ---
 
